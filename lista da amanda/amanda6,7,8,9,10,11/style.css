@@ -1,0 +1,47 @@
+body{
+    list-style: none;
+    background-image: url(indie-background-x4m01hbt8j12xflv.jpg);
+    background-size: cover;
+    align-items: center;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+.pablito{
+    list-style: none;
+    background-color: aliceblue;
+    max-width: 760px;
+    min-width: 205px;
+    padding: 20px;
+    border-radius: 10px;
+    margin: auto;
+    height: 100%;
+}
+img{
+    width: 100%;
+}
+
+a{
+    color: aliceblue;
+    text-decoration: none;
+    font-family: Arial, sans-serif;
+}
+
+.botao {
+    margin: auto;
+    background-color:blueviolet;    
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    text-align: center;
+    width: 150px;
+   
+}
+ul {
+  list-style-type: none;
+  padding-left: 0;
+  margin-left: 0;
+}
+

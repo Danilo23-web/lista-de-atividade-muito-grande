@@ -1,0 +1,42 @@
+.botoes{
+    position: absolute;
+    left: 50%;
+    top: 60%;
+    transform: translate(-50%,-50%);
+
+}
+button{
+    color: aliceblue;
+    background-color: blueviolet;
+    border: none;
+    padding: 10px;
+    border-radius: 20px;
+    width: 300px;
+    font-size: larger;
+}
+#temp{
+    border-radius: 10px;
+    color: aliceblue;
+    font-size: larger;
+    background-color: blueviolet;
+    border: none;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+#temp::placeholder {
+    align-items: center;
+    color: aliceblue;
+    text-align: center;
+    padding: 20px;
+}
+
+.😁{
+    font-family: sans-serif;
+    font-size: 50px;
+     position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%,-50%);   
+}

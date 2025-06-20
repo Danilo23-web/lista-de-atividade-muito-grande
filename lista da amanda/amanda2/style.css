@@ -1,0 +1,15 @@
+.tudo{ font-family: Arial, sans-serif;
+    align-items: center;
+    text-align: center;
+}
+#resultado{
+    
+    font-size: 30px;
+    align-items: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    
+
+}

@@ -1,0 +1,55 @@
+.botao1 {
+position: absolute;
+    background-color:blueviolet;    
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    text-align: center;
+    width: 150px;
+    left: 35%;
+    top: 50%;
+}
+.botao2 {
+    top: 50%;
+    position: absolute;
+    left: 55%;
+    background-color:blueviolet;    
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    text-align: center;
+    width: 150px;
+}
+a{
+    
+    color: aliceblue;
+    text-decoration: none;
+    font-family: Arial, sans-serif;
+}
+.tudo{
+    top: 40%;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+#esteregg{
+    border-radius: 10px;
+    padding: 3px;
+    width: 90px;
+    border: none;
+    background-color: blueviolet;
+    color: white;
+}
+.geral{
+    position: absolute;
+    left :50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+}
+input{
+    border: none;
+}

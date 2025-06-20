@@ -1,0 +1,8 @@
+.nao_tenho_ideia_para_nome{
+    text-align: center;
+    align-items: center;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+}
